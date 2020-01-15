@@ -14,5 +14,8 @@ Contains the main game mechanics. Included methods determine all possible moves 
 ### Piece.java 
 The `Piece` class. Class attributes include an xy coordinate representing the piece's location, whether the piece is a king or man, whether the piece is white or black, and the move that the player makes with the piece (defaulted to zero). 
 
+## Usage 
+Build all files and run `CheckersMain.java`.
+
 ## Future Development
 No future development is planned for this project. 
